@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+    <TITLE>Selector</TITLE>
+    <style type="tevt/css">
+        #BODY_155
+        {
+            FONT-SIZE: 20px;
+            TEXT-DECORATION: underline;
+            COLOR: blue;
+            FONT-FAMILY:Comic Sans MS;
+        }
+    </style>
+</HEAD>
+<BODY id="BODY_155">
+    Menggunakan ID Selector
+</BODY>
+</HTML>

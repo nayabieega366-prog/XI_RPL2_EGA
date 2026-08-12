@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Pengaturan Font</title>
+    <style type="text/css">
+        p.normal{
+            font-family : verdana ;
+            font-weight: normal;}
+
+        p.thick{
+            font-family : verdana ;
+            font-weight: bold;}
+
+        p.thicker{
+            font-family : times ;
+            font-weight: 900; }
+    </style>
+</head>
+<body>
+    <p class="normal">This is a paragraph</p>
+    <p class="thick">This is a paragraph</p>
+    <p class="thicker">This is a paragraph</p>
+</body>
+</html>
